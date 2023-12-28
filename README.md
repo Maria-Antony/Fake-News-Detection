@@ -1,4 +1,4 @@
-##### Fake News Detection System
+# Fake News Detection System
 
 Developed for a Kaggle contest.This repository contains the jupyter notebook and the dataset file used for this project. 
 Alogrithms implemented:
